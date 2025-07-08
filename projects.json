@@ -1,12 +1,13 @@
 [
   {
     "name": "Thumb Gen",
-    "description": "Interactive coding tutorials with real-time feedback and collaborative features.",
+    "description": "An open-source YouTube thumbnail generator that lets creators design engaging video previews with customizable templates and tools.",
     "link": "https://github.com/ColcheteDAO/thumbGen",
     "tags": [
-      "React",
-      "Node.js",
-      "TypeScript"
+      "Image Magick",
+      "Github Actions",
+      "CI/CD",
+      "Youtube"
     ]
   },
   {

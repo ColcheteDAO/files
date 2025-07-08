@@ -1,8 +1,32 @@
 [
   {
-    "name":"",
-    "description":"",
-    "link":"",
-    "tags":""
+    "name": "CodeLearn Platform",
+    "description": "Interactive coding tutorials with real-time feedback and collaborative features.",
+    "link": "https://github.com/ColcheteDAO/thumbGen",
+    "tags": [
+      "React",
+      "Node.js",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "DevTools Suite",
+    "description": "A comprehensive collection of developer utilities and productivity tools.",
+    "link": "https://github.com/ColcheteDAO/cocurso",
+    "tags": [
+      "CLI",
+      "JavaScript",
+      "Open Source"
+    ]
+  },
+  {
+    "name": "CodeLearn Platform",
+    "description": "Framework for launching and scaling educational technology initiatives.",
+    "link": "https://github.com/ColcheteDAO/nftgen",
+    "tags": [
+      "Platform",
+      "React",
+      "Education"
+    ]
   }
 ]

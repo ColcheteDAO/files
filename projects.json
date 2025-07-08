@@ -4,10 +4,8 @@
     "description": "An open-source YouTube thumbnail generator that lets creators design engaging video previews with customizable templates and tools.",
     "link": "https://github.com/ColcheteDAO/thumbGen",
     "tags": [
-      "Open Source",
       "Image Magick",
       "Github Actions",
-      "CI/CD",
       "Youtube"
     ]
   },
@@ -16,7 +14,7 @@
     "description": "The main Colchete plataform that provides Colchete knowlege in a easy and interative way, with Blockhain, Linux and Bitcoin courses.",
     "link": "https://github.com/ColcheteDAO/cocurso",
     "tags": [
-      "Open Source",
+      "Education",
       "Next.js",
       "Typescript"
     ]
@@ -26,7 +24,7 @@
     "description": "A tool to generate images to NFT collections, with high quality and a lot of variations.",
     "link": "https://github.com/ColcheteDAO/nftgen",
     "tags": [
-      "Open Source",
+      "JavaScript",
       "NFT",
       "Generative Art"
     ]

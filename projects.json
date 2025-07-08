@@ -4,6 +4,7 @@
     "description": "An open-source YouTube thumbnail generator that lets creators design engaging video previews with customizable templates and tools.",
     "link": "https://github.com/ColcheteDAO/thumbGen",
     "tags": [
+      "Open Source",
       "Image Magick",
       "Github Actions",
       "CI/CD",
@@ -11,23 +12,23 @@
     ]
   },
   {
-    "name": "DevTools Suite",
-    "description": "A comprehensive collection of developer utilities and productivity tools.",
+    "name": "CoCurso",
+    "description": "The main Colchete plataform that provides Colchete knowlege in a easy and interative way.",
     "link": "https://github.com/ColcheteDAO/cocurso",
     "tags": [
-      "CLI",
-      "JavaScript",
-      "Open Source"
+      "Open Source",
+      "Next.js",
+      "Typescript"
     ]
   },
   {
-    "name": "CodeLearn Platform",
-    "description": "Framework for launching and scaling educational technology initiatives.",
+    "name": "NFT Gen",
+    "description": "A tool to generate images to NFT collections.",
     "link": "https://github.com/ColcheteDAO/nftgen",
     "tags": [
-      "Platform",
-      "React",
-      "Education"
+      "Open Source",
+      "NFT",
+      "Generative Art"
     ]
   }
 ]

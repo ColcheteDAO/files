@@ -21,7 +21,7 @@
   },
   {
     "name": "NFT Gen",
-    "description": "An open-source tool for generating high-quality images for NFT collections, offering extensive trait variations, layer-based composition, and seamless customization. Built for creators and developers, it supports rarity settings, metadata generation.",
+    "description": "An open-source tool for generating high-quality images for NFT collections, offering extensive trait variations, layer-based composition, and seamless customization.",
     "link": "https://github.com/ColcheteDAO/nftgen",
     "tags": [
       "JavaScript",

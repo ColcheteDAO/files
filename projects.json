@@ -13,7 +13,7 @@
   },
   {
     "name": "CoCurso",
-    "description": "The main Colchete plataform that provides Colchete knowlege in a easy and interative way.",
+    "description": "The main Colchete plataform that provides Colchete knowlege in a easy and interative way, with Blockhain, Linux and Bitcoin courses.",
     "link": "https://github.com/ColcheteDAO/cocurso",
     "tags": [
       "Open Source",
@@ -23,7 +23,7 @@
   },
   {
     "name": "NFT Gen",
-    "description": "A tool to generate images to NFT collections.",
+    "description": "A tool to generate images to NFT collections, with high quality and a lot of variations.",
     "link": "https://github.com/ColcheteDAO/nftgen",
     "tags": [
       "Open Source",
